@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helperprocess",
+        "uuid": 9875808,
+        "checksum": "0ffrk3"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
